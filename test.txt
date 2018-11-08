@@ -1,5 +1,6 @@
 public void test{
-	
+	public void main(){
+	}
 
 
 }
